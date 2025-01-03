@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">Zentry Awards Winning Website</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/zentry-awards/blob/24f1fe4643728cca02fcc9bce107b7a619f7850b/zentry.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
